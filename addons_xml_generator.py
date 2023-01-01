@@ -5,7 +5,7 @@ import gzip
 import requests
 import hashlib
 
-GITHUB_USERNAME = "Brajo280603"
+GITHUB_USERNAME = "bhanutejabt"
 ADDONS = [
     "repository.botallen",
     "plugin.video.botallen.hotstar",
